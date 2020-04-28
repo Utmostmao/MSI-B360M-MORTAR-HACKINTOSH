@@ -12,3 +12,11 @@
 三码配置：图中是随意填写的三码，使用前自行修改
 
 ![image](https://github.com/Utmostmao/MSI-B360M-MORTAR-HACKINTOSH/blob/master/Screenshots/%E4%B8%89%E7%A0%81%E9%85%8D%E7%BD%AE.png)
+
+H264 / HEVC 双硬解：
+
+![image](https://github.com/Utmostmao/MSI-B360M-MORTAR-HACKINTOSH/blob/master/Screenshots/H264:HEVC.png)
+
+硬解时的运行情况：
+
+![image](https://github.com/Utmostmao/MSI-B360M-MORTAR-HACKINTOSH/blob/master/Screenshots/%E8%BF%90%E8%A1%8C%E4%BF%A1%E6%81%AF.jpg)

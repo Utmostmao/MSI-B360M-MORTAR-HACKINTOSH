@@ -3,6 +3,16 @@
 
 运行系统：macOS Mojave 10.14.6（18G4032）
 
+Intel BIOS settings：唤醒事件管理 [BIOS]，启动模式选择 [UEFI]，集显共享内存 [64M]
+
+禁用：
+
+Fast Boot / CSM / VT-d / Thunderbolt / Intel SGX / CFG Lock / Intel Platform Trust
+
+启用：
+
+VT-x / Above 4G decoding / Hyper-Threading / XHCI Hand-off / ErP Ready / USB设备从S3/S4/S5唤醒 / 传统USB支持 / Windows 10 WHQL支持
+
 由于机箱、网卡插口位置区别，仓库中的引导文件默认启用全部USB端口；
 
 10.15.+系统需要手动设置：Kernel/Quirks/PowerTimeoutKernelPanic为Ture（修复睡眠唤醒几秒后重启）

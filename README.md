@@ -5,7 +5,7 @@
 
 10.15.+系统需要手动设置：Kernel/Quirks/PowerTimeoutKernelPanic为Ture（修复睡眠唤醒几秒后重启）
 
-关于本机：简单上传一些截图，显卡(双硬解） / 声卡(麦克风+耳机自动切换） / WI-FI / 原生电源管理 / 睡眠唤醒 / iServices / 随航+隔空+Handoff / 暂时还没发现不可用功能，接近完美 。。。。。。
+关于本机：简单上传一些截图，显卡(双硬解） / 声卡(麦克风+耳机自动切换） / 以太网卡 / WI-FI / 原生电源管理 / 睡眠唤醒 / iServices / 随航+隔空+Handoff / 暂时还没发现不可用功能，接近完美 。。。。。。
 
 ![image](https://github.com/Utmostmao/MSI-B360M-MORTAR-HACKINTOSH/blob/master/Screenshots/%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA.png)
 

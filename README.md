@@ -1,6 +1,8 @@
 # MSI-B360M-MORTAR-HACKINTOSH
 电脑硬件：i5-9600k / msi-b360m-mortar / Macmini8,1 / fenvi-bcm94360cs2
 
+运行系统：macOS Mojave 10.14.6（18G4032）
+
 由于机箱、网卡插口位置区别，仓库中的引导文件默认启用全部USB端口；
 
 10.15.+系统需要手动设置：Kernel/Quirks/PowerTimeoutKernelPanic为Ture（修复睡眠唤醒几秒后重启）

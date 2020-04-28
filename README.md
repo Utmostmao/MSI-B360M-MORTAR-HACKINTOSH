@@ -21,5 +21,9 @@ H264 / HEVC 双硬解：
 
 ![image](https://github.com/Utmostmao/MSI-B360M-MORTAR-HACKINTOSH/blob/master/Screenshots/%E8%BF%90%E8%A1%8C%E4%BF%A1%E6%81%AF.jpg)
 
+引导文件目录：
+
+![image](https://github.com/Utmostmao/MSI-B360M-MORTAR-HACKINTOSH/blob/master/Screenshots/%E6%96%87%E4%BB%B6%E7%9B%AE%E5%BD%95.png)
+
 [OpenCore-Desktop-Guide](https://dortania.github.io/OpenCore-Desktop-Guide/ "台式机OpenCore指南")；
 [Dortania](https://dortania.github.io/ "最佳OpenCore指南维护组织")
